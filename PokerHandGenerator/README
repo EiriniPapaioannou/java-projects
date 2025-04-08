@@ -1,0 +1,20 @@
+# Poker Hand Generator
+
+This Java program generates all possible 5-card poker hands from a given subset of cards.
+
+## Features
+- Recursive algorithm
+- Card combination logic
+- Hands validation
+
+## Skills Used
+- Java
+- Recursion
+- Arrays
+
+## How to Run
+Compile and run using any Java IDE or terminal:
+
+```bash
+javac Poker.java
+java Poker

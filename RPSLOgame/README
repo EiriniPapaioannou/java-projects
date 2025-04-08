@@ -1,0 +1,20 @@
+# RPSLO - Rock Paper Scissors Lizard Spock
+
+This Java console game is an extended version of Rock, Paper, Scissors that includes Lizard and Spock as additional moves.
+
+## Features
+- Accepts user input and randomly selects a move for the computer
+- Determines the winner based on extended RPS rules
+- Covers all 10 interactions from the "RPSLS" ruleset
+
+## Skills Used
+- Java
+- Conditionals and user input handling
+- Randomization with `Math.random()`
+
+## How to Run
+Compile and run using any Java IDE or terminal:
+
+```bash
+javac RPSLO.java
+java RPSLO

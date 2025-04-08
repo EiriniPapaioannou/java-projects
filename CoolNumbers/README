@@ -1,0 +1,22 @@
+# Cool Numbers Checker
+
+This Java program finds all "cool numbers" between two bounds `a` and `b`.  
+A number is considered cool if all its non-zero digits divide evenly into a given number `n`.
+
+## Features
+- Checks if individual numbers are "cool"
+- Counts all cool numbers in a given range
+- Prints them to the console
+
+## Skills Used
+- Java
+- Loops and conditionals
+- Number theory logic
+- Input validation and digit extraction
+
+## How to Run
+Compile and run using any Java IDE or terminal:
+
+```bash
+javac CoolNumbers.java
+java CoolNumbers
